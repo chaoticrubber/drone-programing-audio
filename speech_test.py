@@ -14,7 +14,7 @@ if __name__ == '__main__':
     with open(text_path, 'r') as f:
         text = f.readlines()
 
-    print(f"got {len(text)} prases to generate")
+    print(f"got {len(text)} phrases to generate")
     os.makedirs(base_path, exist_ok=True)
 
     engine = pyttsx3.init()
@@ -24,4 +24,4 @@ if __name__ == '__main__':
         engine.save_to_file(t, output, "test")
     engine.runAndWait()
 
-    print(f"generated {len(text)} prases")
+    print(f"generated {len(text)} phrases")
