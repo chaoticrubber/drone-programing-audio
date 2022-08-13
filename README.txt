@@ -1,4 +1,4 @@
-# chant generator
+#chant generator
 
 ## To setup
 
