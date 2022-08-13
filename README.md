@@ -1,3 +1,5 @@
+Thanks to Firey from the Sex Machines Discord for sharing this, 
+https://discord.gg/jffAMNMcP8
 # Chant generator
 
 ## To setup
