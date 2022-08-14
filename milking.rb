@@ -1,4 +1,4 @@
-sample_base="C:/git/speech_test/output/line"
+sample_base="C:\git\speech_test\output\line"
 sample_format=".mp3"
 sample_count=48
 samples = []
